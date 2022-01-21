@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/header.png" align="center" style="width: 40%" />
+<img src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/header.png" align="center" style="width: 60%" />
 </div>  
 
 ### About  
