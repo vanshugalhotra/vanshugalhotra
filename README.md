@@ -71,7 +71,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   <a href="https://www.hackerrank.com/vanshugalhotra31" target="_blank">
-<img src=https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg alt=HackerRank style="margin-bottom: 5px;" />
+<img src=https://brandfolder.com/s/2959f447vnxbcn68krngccn alt=HackerRank style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
