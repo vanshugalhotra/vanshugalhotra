@@ -1,4 +1,6 @@
-
+<div align="center">
+<img src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/header.png" align="center" style="width: 100%" />
+</div>  
 
 ### About  
 ### <div align="center">I'm Vanshu, Learning Software Development👨‍💻</div>  
@@ -58,7 +60,7 @@
 <a href="https://github.com/vanshugalhotra3332" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/user:11052138" target="_blank">
+<a href="https://stackoverflow.com/users/11052138/vanshu-galhotra" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/vanshu-galhotra-1b4ab1223" target="_blank">
