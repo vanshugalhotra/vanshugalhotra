@@ -1,5 +1,5 @@
 <div align="center">
-# Hello, folks! <img src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/wavehand.gif" align="center" style="width: 100%" />
+# Hello, folks! <img src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/wavehand.gif" align="center" style="width: 30px" />
 </div>  
 
 ### About  
