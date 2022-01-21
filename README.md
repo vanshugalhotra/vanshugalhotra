@@ -34,7 +34,7 @@
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/python.png" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/djanog.svg" alt="Django" height="50" />  
+<img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/django.svg" alt="Django" height="50" />  
 <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/mysql.svg" alt="MySQL" height="50" />  
 </div>
 
