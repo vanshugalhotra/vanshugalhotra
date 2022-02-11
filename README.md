@@ -9,7 +9,7 @@
 <a href="https://github.com/vanshugalhotra3332">
   <img align='right' src="me.png" width="100"/>
 </a>
-<p>I'm a passionate, originally self-taught developer studying at <a href="https://www.davchd.ac.in/">D.A.V. College, Chandigarh</a>.</p>
+<p>I'm a passionate, originally self-taught developer studying at <a href="https://www.davchd.ac.in/" target="_blank">D.A.V. College, Chandigarh</a>.</p>
 <ul>
   <li> 🌱 I’m currently learning C++</li>
   <li> 📫 How to reach me: <a href="mailto:vanshugalhotra3332@gmail.com">vanshugalhotra3332@gmail.com</a></li>
@@ -70,8 +70,13 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   <a href="https://www.hackerrank.com/vanshugalhotra31" target="_blank">
-<img src=https://brandfolder.com/s/2959f447vnxbcn68krngccn alt=HackerRank style="margin-bottom: 5px;" />
+<img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fapierr%2Fhackerrank%2Fissues%2F1&psig=AOvVaw2ueFXbWtFOmNXR8msyRGa2&ust=1644657519878000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDCk-yo9_UCFQAAAAAdAAAAABAD alt=HackerRank style="margin-bottom: 5px;" />
 </a>  
+  
+  <a href="https://www.chess.com/member/vanshugalhotra28" target="_blank">
+<img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.chess.com%2Fblog%2Ferik%2Fthe-chess-com-logo-story&psig=AOvVaw1OCEWuVfZSnkvXIHlgDOhJ&ust=1644657327050000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICjx5Co9_UCFQAAAAAdAAAAABAF alt=Chess.com style="margin-bottom: 5px;" />
+</a>  
+  
 </div>  
   
 
