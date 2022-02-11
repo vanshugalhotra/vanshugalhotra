@@ -5,20 +5,22 @@
 ### About  
 ### <div align="center">I'm Vanshu, Learning Software Development👨‍💻</div>  
   
-
-- 🌱 I’m currently learning C++  
+<div align="left">
+<a href="https://github.com/vanshugalhotra3332">
+  <img align='right' src="me.png" width="180" />
+</a>
+<p>I'm a passionate, originally self-taught developer studying at DAV College, Chandigarh.</p>
+<ul>
+  <li> 🌱 I’m currently learning C++</li>
+  <li> 📫 How to reach me: <a href="mailto:vanshugalhotra3332@gmail.com">vanshugalhotra3332@gmail.com</a></li>
+  <li> ⚡ Fun fact: I use tabs over spaces  </li>
+</ul>
+</div>
   
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center"> 
