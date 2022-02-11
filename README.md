@@ -7,17 +7,16 @@
   
 <div align="left">
 <a href="https://github.com/vanshugalhotra3332">
-  <img align='right' src="me.png" width="180" />
+  <img align='right' src="me.png" width="100"/>
 </a>
-<p>I'm a passionate, originally self-taught developer studying at DAV College, Chandigarh.</p>
+<p>I'm a passionate, originally self-taught developer studying at <a href="https://www.davchd.ac.in/">D.A.V. College, Chandigarh</a>.</p>
 <ul>
   <li> 🌱 I’m currently learning C++</li>
   <li> 📫 How to reach me: <a href="mailto:vanshugalhotra3332@gmail.com">vanshugalhotra3332@gmail.com</a></li>
   <li> ⚡ Fun fact: I use tabs over spaces  </li>
 </ul>
 </div>
-  
-<br/>  
+ 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
