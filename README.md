@@ -68,14 +68,7 @@
 </a>
 <a href="https://instagram.com/vanshu_galhotra" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  <a href="https://www.hackerrank.com/vanshugalhotra31" target="_blank">
-<img src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/hack.png" alt=HackerRank style="margin-bottom: 5px;" />
-</a>  
-  
-  <a href="https://www.chess.com/member/vanshugalhotra28" target="_blank">
-<img src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/ches.png" alt=Chess.com style="margin-bottom: 5px;" />
-</a>  
+</a> 
   
 </div>  
   
