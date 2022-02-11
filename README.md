@@ -87,7 +87,7 @@
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshugalhotra3332" />
   </a>
   <a href="https://github.com/vanshugalhotra3332">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshugalhotra3332&layout=compact" />
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshugalhotra3332&hide_border=true&layout=compact" />
   </a>
 </p>
   
