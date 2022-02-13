@@ -23,8 +23,7 @@
 ### <div align="center">I'm Vanshu, Learning Software Development👨‍💻</div>  
   
 <div align="left">
-  
-  <img align="right" alt="GIF" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/code.gif?raw=true" width="350" height="230" />
+  <img align='right' src="me.png" width="120"/>
 
 <p>I'm a passionate, originally self-taught developer studying at <a href="https://www.davchd.ac.in/" target="_blank">D.A.V. College, Chandigarh</a>.</p>
 <ul>
