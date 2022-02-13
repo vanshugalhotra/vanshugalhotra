@@ -1,16 +1,31 @@
 <div align="center">
 <img src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/greetings.gif" align="center" style="width: 50%" />
-</div>  
+</div>
+
+
+<div align="center">
+<a href="https://github.com/vanshugalhotra3332" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/11052138/vanshu-galhotra" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/vanshu-galhotra-1b4ab1223" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/vanshu_galhotra" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a> 
+  
+</div> 
 
 ### About  
 ### <div align="center">I'm Vanshu, Learning Software Development👨‍💻</div>  
   
 <div align="left">
-<a href="https://github.com/vanshugalhotra3332">
+  
+  <img align="right" alt="GIF" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/code.gif?raw=true" width="350" height="230" />
 
-  <img align="right" alt="GIF" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/code.gif?raw=true" width="350" height="250" />
-  <br>
-</a>
 <p>I'm a passionate, originally self-taught developer studying at <a href="https://www.davchd.ac.in/" target="_blank">D.A.V. College, Chandigarh</a>.</p>
 <ul>
   <li> 🌱 I’m currently learning C++</li>
@@ -54,27 +69,7 @@
 
 </td></tr></table>  
 
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/vanshugalhotra3332" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/11052138/vanshu-galhotra" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/vanshu-galhotra-1b4ab1223" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/vanshu_galhotra" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
-  
-</div>  
-  
-
+<br/>    
 <br/>  
 
 
