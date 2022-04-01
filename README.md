@@ -38,7 +38,7 @@
  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="45%">
 
 ### Frontend  
 <div align="center"> 
@@ -47,7 +47,7 @@
 <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/javascript.png" alt="JavaScript" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="45%">
 
 
 ### Backend  
@@ -56,7 +56,8 @@
 <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/mysql.svg" alt="MySQL" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+  </td></tr><tr>
+  <td valign="top" width="80%">
 
 
 
