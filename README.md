@@ -38,42 +38,35 @@
  
 
 ## My Skill Set  
-<table>
-  <tr>
-    
-    <td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
-### Frontend & Backend  
+### Frontend  
 <div align="center"> 
 <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/html.png" alt="HTML5" height="50" /> 
 <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/css.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/javascript.png" alt="JavaScript" height="50" />  
 </div>
 
-</td>
-    
-      <td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
-### Languages  
+
+### Backend  
 <div align="center">  
-  <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/python.png" alt="Python" height="50" />  
-  <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/c.png" alt="C" height="50" />  
-  <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/cpp.png" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/python.png" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/mysql.svg" alt="MySQL" height="50" />  
 </div>
 
-</td>
-    
-</tr>
-  
-  <tr>
-  <td valign="top" width="80%">
+</td><td valign="top" width="33%">
 
-### Tools
+
+
+### Tools  
 <div align="center">  
+  <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/c.png" alt="C" height="50" />  
+  <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/cpp.png" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/git.svg" alt="Git" height="50" />  
  <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/vscode.png" alt="VsCode" height="50" />  
- <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/github.png" alt="GitHub" height="50" /> 
-  <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/mysql.svg" alt="MySQL" height="50" />  
+ <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/github.png" alt="GitHub" height="50" />  
 </div>
 
 </td></tr></table>  
