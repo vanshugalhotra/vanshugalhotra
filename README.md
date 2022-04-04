@@ -45,7 +45,7 @@
 <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/html.png" alt="HTML5" height="50" /> 
 <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/css.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/javascript.png" alt="JavaScript" height="50" />
-  <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/nodejs.png" alt="NodeJs" height="50" />  
+  <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/node.svg" alt="NodeJs" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
