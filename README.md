@@ -59,6 +59,7 @@
 <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/python.svg" alt="Python" height="50" />  
     <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/c.svg" alt="C" height="50" />  
   <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/cpp.svg" alt="C++" height="50" />  
+  <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/javascript.svg" alt="JavaScript" height="50" />
 
 </div>
 
