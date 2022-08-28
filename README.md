@@ -75,6 +75,7 @@
 <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/git.svg" alt="Git" height="50" />  
  <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/vscode.svg" alt="VsCode" height="50" />  
  <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/github.svg" alt="GitHub" height="50" />  
+  <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/redux.svg" alt="Redux" height="50" />  
 </div>
 
 </td></tr></table>  
