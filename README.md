@@ -30,7 +30,7 @@
 
 <p>I'm a passionate, originally self-taught developer studying at <a href="https://www.davchd.ac.in/" target="_blank">D.A.V. College, Chandigarh</a>.</p>
 <ul>
-  <li> 🌱 I’m currently preparing for NIMCET</li>
+  <li> 🌱 I’m currently preparing for NIMCET and learning NextJs</li>
   <li> 📫 How to reach me: <a href="mailto:vanshugalhotra3332@gmail.com">vanshugalhotra3332@gmail.com</a></li>
   <li> ⚡ Fun fact: I use tabs over spaces  </li>
 </ul>
