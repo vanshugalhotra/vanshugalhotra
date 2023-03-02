@@ -50,6 +50,7 @@
       <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/express.svg" alt="Express.js" height="50" /> 
       <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/react.svg" alt="React.js" height="50" /> 
   <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/node.svg" alt="NodeJs" height="80" />  
+   <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/nextjs.svg" alt="NodeJs" height="60" />  
 
 </div>
 
