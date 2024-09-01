@@ -10,7 +10,7 @@
 <a href="https://stackoverflow.com/users/11052138/vanshu-galhotra" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/vanshugalhotra3332" target="_blank">
+<a href="https://linkedin.com/in/vanshugalhotra" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/vanshu_galhotra" target="_blank">
