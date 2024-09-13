@@ -30,8 +30,8 @@
 
 <p>I'm a passionate, originally self-taught developer studying at <a href="https://www.nitt.edu/" target="_blank">NIT Trichy</a>.</p>
 <ul>
-  <li> 🌱 I’m currently learning NextJs</li>
-  <li> 📫 How to reach me: <a href="mailto:vanshugalhotra3332@gmail.com">vanshugalhotra3332@gmail.com</a></li>
+  <li> 🌱 I’m currently learning DSA in C++</li>
+  <li> 📫 How to reach me: <a href="mailto: galhotravanshu@gmail.com">galhotravanshu@gmail.com</a></li>
   <li> ⚡ Fun fact: I use tabs over spaces  </li>
 </ul>
 </div>
@@ -88,14 +88,14 @@
 ## Github Stats  
 
 <p align="center">
-  <a href="https://github.com/vanshugalhotra3332">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshugalhotra3332&show_icons=true&count_private=true" />
+  <a href="https://github.com/vanshugalhotra">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshugalhotra&show_icons=true&count_private=true" />
   </a>
   <a href="https://github.com/vanshugalhotra3332">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshugalhotra3332" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshugalhotra" />
   </a>
   <a href="https://github.com/vanshugalhotra3332">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshugalhotra3332&hide_border=true&layout=compact" />
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshugalhotra&hide_border=true&layout=compact" />
   </a>
 </p>
   
@@ -103,7 +103,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=vanshugalhotra3332&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=vanshugalhotra&&style=flat-square" align="center" />
 </div>  
   
 
