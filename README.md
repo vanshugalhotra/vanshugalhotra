@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/greetings.gif" align="center" style="width: 50%" />
+<img src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/greetings.gif" align="center" style="width: 50%" />
 </div>
 
 
 <div align="center">
-<a href="https://github.com/vanshugalhotra3332" target="_blank">
+<a href="https://github.com/vanshugalhotra" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/11052138/vanshu-galhotra" target="_blank">
@@ -42,15 +42,15 @@
 
 ### Frontend  & Backend
 <div align="center"> 
-<img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/html.svg" alt="HTML5" height="50" /> 
-<img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/css.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/javascript.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/html.svg" alt="HTML5" height="50" /> 
+<img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/css.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/javascript.svg" alt="JavaScript" height="50" />
   <br>
-      <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/mongodb.svg" alt="MongoDB" height="70" />  
-      <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/express.svg" alt="Express.js" height="50" /> 
-      <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/react.svg" alt="React.js" height="50" /> 
-  <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/node.svg" alt="NodeJs" height="80" />  
-   <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/nextjs.svg" alt="NodeJs" height="60" />  
+      <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/mongodb.svg" alt="MongoDB" height="70" />  
+      <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/express.svg" alt="Express.js" height="50" /> 
+      <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/react.svg" alt="React.js" height="50" /> 
+  <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/node.svg" alt="NodeJs" height="80" />  
+   <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/nextjs.svg" alt="NodeJs" height="60" />  
 
 </div>
 
@@ -59,10 +59,10 @@
 
 ### Languages 
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/python.svg" alt="Python" height="50" />  
-    <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/c.svg" alt="C" height="50" />  
-  <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/cpp.svg" alt="C++" height="50" />  
-  <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/javascript.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/python.svg" alt="Python" height="50" />  
+    <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/c.svg" alt="C" height="50" />  
+  <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/cpp.svg" alt="C++" height="50" />  
+  <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/javascript.svg" alt="JavaScript" height="50" />
 
 </div>
 
@@ -72,11 +72,11 @@
 
 ### Tools  
 <div align="center">  
-  <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/mysql.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/git.svg" alt="Git" height="50" />  
- <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/vscode.svg" alt="VsCode" height="50" />  
- <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/github.svg" alt="GitHub" height="50" />  
-  <img style="margin: 10px" src="https://github.com/vanshugalhotra3332/vanshugalhotra3332/blob/main/Logos/redux.svg" alt="Redux" height="50" />  
+  <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/mysql.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/git.svg" alt="Git" height="50" />  
+ <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/vscode.svg" alt="VsCode" height="50" />  
+ <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/github.svg" alt="GitHub" height="50" />  
+  <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/redux.svg" alt="Redux" height="50" />  
 </div>
 
 </td></tr></table>  
@@ -91,10 +91,10 @@
   <a href="https://github.com/vanshugalhotra">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshugalhotra&show_icons=true&count_private=true" />
   </a>
-  <a href="https://github.com/vanshugalhotra3332">
+  <a href="https://github.com/vanshugalhotra">
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshugalhotra" />
   </a>
-  <a href="https://github.com/vanshugalhotra3332">
+  <a href="https://github.com/vanshugalhotra">
     <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshugalhotra&hide_border=true&layout=compact" />
   </a>
 </p>
