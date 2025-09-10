@@ -111,3 +111,6 @@
 
 
 <br />
+<div align="center">
+  <sub>© ਉਸਤਾਦ ਜੀ</sub>
+</div>
