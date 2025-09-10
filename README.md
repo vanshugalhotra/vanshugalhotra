@@ -30,7 +30,7 @@
 
 <p>I'm a passionate, originally self-taught developer studying at <a href="https://www.nitt.edu/" target="_blank">NIT Trichy</a>.</p>
 <ul>
-  <li> 🌱 I’m currently learning DSA in C++</li>
+  <li> 🌱 I’m currently learning DevOps</li>
   <li> 📫 How to reach me: <a href="mailto: galhotravanshu@gmail.com">galhotravanshu@gmail.com</a></li>
   <li> ⚡ Fun fact: I use tabs over spaces  </li>
 </ul>
