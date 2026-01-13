@@ -50,7 +50,8 @@
       <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/express.svg" alt="Express.js" height="50" /> 
       <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/react.svg" alt="React.js" height="50" /> 
   <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/node.svg" alt="NodeJs" height="80" />  
-   <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/nextjs.svg" alt="NodeJs" height="60" />  
+   <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/nextjs.svg" alt="NextJS" height="60" />  
+   <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/nest.svg" alt="NestJs" height="60" />  
 
 </div>
 
@@ -63,6 +64,8 @@
     <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/c.svg" alt="C" height="50" />  
   <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/cpp.svg" alt="C++" height="50" />  
   <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/javascript.svg" alt="JavaScript" height="50" />
+  <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/ts.svg" alt="TypeScript" height="50" />
+  <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/java.svg" alt="java" height="50" />
 
 </div>
 
@@ -70,13 +73,14 @@
 
 
 
-### Tools  
+### Others  
 <div align="center">  
   <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/mysql.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/git.svg" alt="Git" height="50" />  
  <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/vscode.svg" alt="VsCode" height="50" />  
  <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/github.svg" alt="GitHub" height="50" />  
   <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/redux.svg" alt="Redux" height="50" />  
+  <img style="margin: 10px" src="https://github.com/vanshugalhotra/vanshugalhotra/blob/main/Logos/aws.svg" alt="AWS" height="50" />  
 </div>
 
 </td></tr></table>  
